@@ -15,7 +15,7 @@ To use this SVG Logo Maker, follow these instructions (as demonstrated in the vi
     2. Answer the prompts, picking up to three characters to fill the text portion of your logo, a shape (square, circle, or triangle), and colors for both the text and the shape.<br>
 After answering all the prompts, your new SVG logo will be saved to "logo.svg"
 
-https://drive.google.com/file/d/1Z_5OCDpNj_veD06tBkFSgXapAsBm2ybA/view
+https://drive.google.com/file/d/1a9WU39fZjdEyBmpoEg_cRNaV-KZkSN8D/view?usp=sharing
 
 ## License
 
